@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/socdia/static/css/main.9edef86b.css",
-    "main.js": "/socdia/static/js/main.f60785cd.js",
+    "main.css": "/socdia/static/css/main.5126f20a.css",
+    "main.js": "/socdia/static/js/main.b1b4940e.js",
     "static/js/787.28cb0dcd.chunk.js": "/socdia/static/js/787.28cb0dcd.chunk.js",
-    "static/media/nhacnen.mp3": "/socdia/static/media/nhacnen.8bfb680cb49cb0a418ab.mp3",
+    "static/media/nhac.mp3": "/socdia/static/media/nhac.c499b5ef4d25ee47f6ce.mp3",
     "static/media/vunginox.png": "/socdia/static/media/vunginox.d2e42455e074173a0ed0.png",
     "static/media/dia.png": "/socdia/static/media/dia.b5f45352ae6df41e385d.png",
     "static/media/bg_tet.png": "/socdia/static/media/bg_tet.21443d2c1a41591154b7.png",
@@ -14,12 +14,12 @@
     "static/media/ga.png": "/socdia/static/media/ga.e3bcd6f82dd71ee8974a.png",
     "static/media/ca.png": "/socdia/static/media/ca.01181d8f0f8739b9c297.png",
     "index.html": "/socdia/index.html",
-    "main.9edef86b.css.map": "/socdia/static/css/main.9edef86b.css.map",
-    "main.f60785cd.js.map": "/socdia/static/js/main.f60785cd.js.map",
+    "main.5126f20a.css.map": "/socdia/static/css/main.5126f20a.css.map",
+    "main.b1b4940e.js.map": "/socdia/static/js/main.b1b4940e.js.map",
     "787.28cb0dcd.chunk.js.map": "/socdia/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9edef86b.css",
-    "static/js/main.f60785cd.js"
+    "static/css/main.5126f20a.css",
+    "static/js/main.b1b4940e.js"
   ]
 }
